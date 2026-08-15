@@ -1,2 +1,2 @@
 # Playwright-repo
-Daily assignments
+Daily home assignments of playwright.
